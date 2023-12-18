@@ -41,6 +41,10 @@ Simply open the HTML file in a web browser to view the journal webpage. Customiz
 - **ss6.jpg**, **ss3.jpg**, **ss7.jpg**: Images used in the image carousel.
 - **image1.jpg**, **image2.jpg**, **image3.jpg**, **image4.jpg**, **image5.gif**: Images with associated dates.
 
+## Output
+
+![Screenshot (385)](https://github.com/DeepikaA2004/Journal-website/assets/110418508/8bacbdef-2b72-4c99-a0e9-d65667ce7dd4)
+
 ## Dependencies
 
 - [Bootstrap](https://getbootstrap.com/): Version 5.0.2
